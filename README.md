@@ -12,6 +12,14 @@ Repositorio de la asignatura **Metodologías de Desarrollo de Software** (Carrer
 
 Repositorio grupal de referencia: https://github.com/dpperez4-hue/ProyectoMetodologia
 
+## Resumen de los ACD
+
+| ACD | Qué contiene | Tablero en GitHub | Carpeta |
+|---|---|---|---|
+| **1. ACD - Introducción a Metodologías Ágiles** | Conceptos ágiles, Kanban básico y plan de integración del sabor Uva en Coca-Cola | [Kanban Coca-Cola Uva](https://github.com/users/jhonnytrivino99/projects/2) | [ACD-Introduccion/](./ACD-Introduccion) |
+| **2. ACD - Eventos** | Resolución del cambio Java Swing a Web (Vaadin Flow), ciclo de vida, roles Scrum y cronograma de 27 días | [Scrum - Tablero](https://github.com/users/jhonnytrivino99/projects/1/views/1) | [ACD-Eventos/](./ACD-Eventos) |
+| **3. ACD - Roles** | Análisis de los 5 roles, identificación de sobrecarga de actividades y flujo Kanban con límites WIP | [ACD - Roles](https://github.com/users/jhonnytrivino99/projects/1) | [ACD-Roles/](./ACD-Roles) |
+
 ---
 
 ## 1. ACD - Introducción a Metodologías Ágiles
